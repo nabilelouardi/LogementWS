@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace LogementWS.Controllers
 {
+    // V2
+
     [Route("api/[controller]")]
     [ApiController]
     public class LogementController : ControllerBase
