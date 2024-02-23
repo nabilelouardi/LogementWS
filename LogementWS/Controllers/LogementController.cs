@@ -11,6 +11,8 @@ namespace LogementWS.Controllers
 
         private readonly LogementService logementService;
 
+        // comm 4555
+
         public LogementController (LogementService logementService)
         {
             this.logementService = logementService;
