@@ -8,7 +8,7 @@ namespace LogementWS.Services
     public class LogementService
     {
 
-        private readonly IMongoCollection<Logement> logements;
+        private readonly IMongoCollection<Logement> lhhhhhhhh;
 
         public LogementService(ILogementsSettings settings)
         {
