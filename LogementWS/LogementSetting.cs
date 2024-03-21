@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace LogementWS
 {
- 
+ //hellooo
         public class LogementsSetting : ILogementsSettings
         {
             public string LogementCollection { get; set; }

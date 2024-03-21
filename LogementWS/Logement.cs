@@ -2,6 +2,7 @@
 
 
 namespace LogementWS
+    
 {
     public class Logement
     {
