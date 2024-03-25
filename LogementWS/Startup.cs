@@ -28,6 +28,8 @@ namespace LogementWS
         public void ConfigureServices(IServiceCollection services)
         {
 
+            // v4
+
             services.Configure<LogementsSetting>(
                 Configuration.GetSection(nameof(LogementsSetting)));
 
