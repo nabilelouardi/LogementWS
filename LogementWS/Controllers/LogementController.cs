@@ -8,6 +8,7 @@ namespace LogementWS.Controllers
 
     // first comment for V2
     // second comment for V2
+    //manal2
     [Route("api/[controller]")]
     [ApiController]
     public class LogementController : ControllerBase
