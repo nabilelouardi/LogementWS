@@ -6,6 +6,8 @@ namespace LogementWS.Controllers
 {
     // V2
 
+    // first comment for V2
+    // second comment for V2
     [Route("api/[controller]")]
     [ApiController]
     public class LogementController : ControllerBase
@@ -24,7 +26,7 @@ namespace LogementWS.Controllers
             Logement l1 = new Logement();
             l1.Description = "Super logement à découvrir";
             l1.Prix = 42.0f;
-            l1.Lieu = "Orléans";
+            l1.Lieu = "casa";
 
             Logement l2 = new Logement();
             l2.Description = "Belle villa";
