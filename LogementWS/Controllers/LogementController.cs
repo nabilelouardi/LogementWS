@@ -41,7 +41,10 @@ namespace LogementWS.Controllers
             return new List<Logement> { l1, l2, l3 };
 
           //  return  bbbbbbb logementService.Get();
-          // wissal 
+
+          //  Thami THE GREAT was here.
+          
+
         }
     }
 }
