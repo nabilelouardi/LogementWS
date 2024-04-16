@@ -4,7 +4,7 @@
 namespace LogementWS
 {
     public class Logement
-    {
+    {//COMMM
       
         public String Id { get; set; }
         public String Description { get; set; }
