@@ -24,7 +24,7 @@ namespace LogementWS.Controllers
         public IEnumerable<Logement> Get()
         {
             Logement l1 = new Logement();
-            l1.Description = "Super logement à découvrir";
+            l1.Description = "Super logement yassine à découvrir";
             l1.Prix = 42.0f;
             l1.Lieu = "casa";
 
