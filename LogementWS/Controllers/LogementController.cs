@@ -4,10 +4,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace LogementWS.Controllers
 {
-    // V2 iss99
+    // V2 iss99 hyyuy//hicham
 
-    // first comment for V2
-    // second comment for V2
+    //mac  fati sfirst comment for V2
+    // second comment for V2 iss 21212
     [Route("api/[controller]")]
     [ApiController]
     public class LogementController : ControllerBase
@@ -24,7 +24,7 @@ namespace LogementWS.Controllers
         public IEnumerable<Logement> Get()
         {
             Logement l1 = new Logement();
-            l1.Description = "Super logement à découvrir";
+            l1.Description = "Super logement yassine à découvrir";
             l1.Prix = 42.0f;
             l1.Lieu = "casa";
 
@@ -40,7 +40,12 @@ namespace LogementWS.Controllers
 
             return new List<Logement> { l1, l2, l3 };
 
-          //  return logementService.Get();
+          //  return  bbbbbbb logementService.Get();
+          // testing features
+
+          // hell nah ayoub ez
+          
+
         }
     }
 }
