@@ -14,6 +14,7 @@ namespace LogementWS.Services
         {
             var client = new MongoClient(settings.ConnectionString);
             var database = client.GetDatabase(settings.DatabaseName);
+            //CHANG1
 
             logements = database.GetCollection<Logement>(settings.LogementCollection);
         }
