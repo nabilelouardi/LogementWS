@@ -5,6 +5,7 @@ namespace LogementWS
 {
     public class Logement
     {//COMMM
+    //v 2.0
       
         public String Id { get; set; }
         public String Description { get; set; }
