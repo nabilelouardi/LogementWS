@@ -7,7 +7,7 @@ namespace LogementWS.Services
 {
     public class LogementService
     {
-
+        //my changes
         private readonly IMongoCollection<Logement> logements;
 
         public LogementService(ILogementsSettings settings)
