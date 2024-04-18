@@ -8,7 +8,7 @@ namespace LogementWS.Controllers
 
     //mac  fati sfirst comment for V2
     // second comment for V2 iss 21212
-    // hello there V2
+    // hello there V2.1
     [Route("api/[controller]")]
     [ApiController]
     public class LogementController : ControllerBase
