@@ -10,5 +10,6 @@ namespace LogementWS
         public String Description { get; set; }
         public float Prix { get; set; }
         public String Lieu { get; set; }
+        //v2,2
     }
 }
