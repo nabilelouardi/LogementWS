@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 
 namespace LogementWS
 {
+
+    // commetairre Neo
  
         public class LogementsSetting : ILogementsSettings
         {
