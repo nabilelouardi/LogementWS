@@ -13,7 +13,7 @@ namespace LogementWS
     //v2.1
     //v2.1
     //v2.1
-    //V5.2
+    //V5.22
       
         public String Id { get; set; }
         public String Description { get; set; }
