@@ -25,8 +25,13 @@ namespace LogementWS
     //ya3ini   
     //VF
     //AL BACHE9
+ 
+
+      
+
     //sduhfijdgjihdxiojr
       
+//test"
         public String Id { get; set; }
         public String Description { get; set; }
         public float Prix { get; set; }
