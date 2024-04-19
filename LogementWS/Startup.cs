@@ -13,6 +13,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
+//Test...test...1...2...
+
 namespace LogementWS
 {
     public class Startup
