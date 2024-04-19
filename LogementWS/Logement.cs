@@ -17,9 +17,9 @@ namespace LogementWS
     //modif
     //modif1
     //3arandass
-
     //ya3ini   
     //VF
+    //AL BACHE9
 
       
         public String Id { get; set; }
