@@ -20,6 +20,7 @@ namespace LogementWS
     //ya3ini   
     //VF
     //AL BACHE9
+    //v2
 
       
         public String Id { get; set; }
