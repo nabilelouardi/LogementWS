@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+// V2.0
+
 namespace LogementWS
 {
 
-    // commetairre Neo
+    // commetairre Neo   bbbbbb
  
         public class LogementsSetting : ILogementsSettings
         {
