@@ -24,7 +24,7 @@ namespace LogementWS
     //VF
     //AL BACHE9
 
-      
+     //Test 
         public String Id { get; set; }
         public String Description { get; set; }
         public float Prix { get; set; }
