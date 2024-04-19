@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace LogementWS
 {
 
-    // commetairre Neo
+    // commetairre Neo   bbbbbb
  
         public class LogementsSetting : ILogementsSettings
         {
