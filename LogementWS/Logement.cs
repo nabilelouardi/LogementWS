@@ -4,7 +4,9 @@
 namespace LogementWS
 {
     public class Logement
-    {//COMMM
+    {
+    //v2.1_YE
+    //COMMM
     //v 2.0
     //v2.1
     //v2.1
