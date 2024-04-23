@@ -6,7 +6,7 @@ namespace LogementWS
     public class Logement
     {
     //v2.1_YE
-    //COMMM
+    //Soliairex was here!
     //v 2.0
     //v2.1
     //v2.1
