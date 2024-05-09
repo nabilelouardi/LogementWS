@@ -22,8 +22,9 @@ namespace LogementWS.Controllers
     //add dev branch
     [Route("api/[controller]")]
     [ApiController]
+    //hjgdgfyhghfh
     public class LogementController : ControllerBase
-    {
+    {//kughtf
 
         private readonly LogementService logementService;
 
