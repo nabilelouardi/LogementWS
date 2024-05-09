@@ -20,7 +20,7 @@ namespace LogementWS.Controllers
     [ApiController]
     //hjgdgfyhghfh
     public class LogementController : ControllerBase
-    {
+    {//kughtf
 
         private readonly LogementService logementService;
 
