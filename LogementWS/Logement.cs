@@ -4,7 +4,9 @@
 namespace LogementWS
 {
     public class Logement
-    {//COMMM
+    {
+    //v2.1_YE
+    //COMMM
     //v 2.0
     //v2.1
     //v2.1
@@ -23,8 +25,13 @@ namespace LogementWS
     //ya3ini   
     //VF
     //AL BACHE9
-    //sduhfijdgjihdxiojr
+ 
+
       
+
+    //sduhfijdgjihdxiojr
+      //ta9
+//test"
         public String Id { get; set; }
         public String Description { get; set; }
         public float Prix { get; set; }
